@@ -19,7 +19,6 @@ insert into student values(2, 'Karim', 21);
 set sql_safe_updates = 0;
 
 -- update data
-
 update student set name = 'Rahim Uddin' where id = 1;
 
 -- delete data
