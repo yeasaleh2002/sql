@@ -24,6 +24,7 @@ update student set name = 'Rahim Uddin' where id = 1;
 -- delete data
 delete from student where id = 2;
 
+
 -- drop table
 drop table student;
 
