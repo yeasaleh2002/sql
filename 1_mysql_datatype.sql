@@ -45,5 +45,5 @@ TEXT ->
 
  -- bit DataType
  /* 
- BIT -> 
+ BIT -> BIT(5) -> means 5 bit
  */
