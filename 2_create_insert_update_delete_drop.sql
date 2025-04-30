@@ -28,3 +28,6 @@ delete from student where id = 2;
 -- drop table
 drop table student;
 
+-- add primary key
+alter table student add primary key(id);
+
