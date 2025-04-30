@@ -20,3 +20,30 @@ TEXT ->
  TIMESTAMP -> 
  YEAR -> 
  */
+
+ -- Boolean DataType
+ /* 
+ BOOLEAN ->  TRUE/FALSE
+ */
+
+ -- Binary DataType
+ /* 
+ BINARY -> 
+ VARBINARY -> 
+ BLOB -> 
+ */
+
+ -- set DataType
+ /* 
+ SET -> 
+ */
+
+ -- Enum DataType
+ /* 
+ ENUM -> 
+ */
+
+ -- bit DataType
+ /* 
+ BIT -> 
+ */
